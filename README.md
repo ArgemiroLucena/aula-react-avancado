@@ -16,7 +16,8 @@ npx create-react-app <nome do projeto>
 - shouldComponentUpdate
 
 4. Hooks
-Nova forma de escrever o React. Permite usar state e outros recursos sem escrever uma classe.
+- Nova forma de escrever o React
+- Permite usar state e outros recursos sem escrever uma classe.
 - Não use Hooks dentro de funções JS comuns;
 - Chamar Hooks em componentes React;
 - Chamar Hooks dentro de Hooks customizados.
@@ -85,7 +86,7 @@ Exemplos: UserGallery, UserPage, FilterBook, FollowersSidebar, ListCards
 - resources => API
 - routes
   
-Links das Aulas:
+# Links das Aulas:
 
 ## Aula 01
 - [Ciclo de Vida](./life-cycle)
