@@ -1,5 +1,5 @@
 # ANOTAÇÕES DA AULA:
-# Práticas avançadas em projetos com ReactJS
+## Práticas avançadas em projetos com ReactJS
 
 AULA 01
 
